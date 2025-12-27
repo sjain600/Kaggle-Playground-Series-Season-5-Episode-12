@@ -7,4 +7,5 @@ The goal of this playground competition is to predict the probability that a pat
 ## 📦 Key Components  
 - **Data Wrangling:** Cleaning, structuring, checking for missing values, assigning numerical and categorical columns 
 - **Exploratory Data Analysis and Data Visualization:** Target distribution, correlation matrix, feature distribution, boxplot
+- **Optuna Study:** Find the best hyperparameters for XGBoost model
   
