@@ -1,10 +1,10 @@
 # Kaggle-Playground-Series-Season-5-Episode-12
 
-## 🎯 Project Goal  
+## Project Goal  
 ### **Diabetes Prediction Challenge**  
 The primary objective of this project is to develop a classification model that predicts the probability of a patient being diagnosed with diabetes. The project was developed using data from the "Kaggle Playground Series" Season 5, Episode 12. The dataset is designed for diabetes risk prediction, analysis, and machine learning applications.
 
-## 📦 Methodology and Steps
+## Methodology and Steps
 The project was structured following an end-to-end data science workflow:
 
 1.  **Data Analysis and Visualization:**
